@@ -1,0 +1,393 @@
+[
+  {
+    "id": 1,
+    "fase": "Octavos de Final - Vuelta",
+    "fecha": "2024-08-22",
+    "estadio": "Mineirão, Belo Horizonte (Brasil)",
+    "equipo_local": "Cruzeiro",
+    "equipo_visitante": "Boca Juniors",
+    "pais_local": "Brasil",
+    "pais_visitante": "Argentina",
+    "sigla_local": "CRU",
+    "sigla_visitante": "BOC",
+    "goles_local": 2,
+    "goles_visitante": 1,
+    "goleadores": [
+      { "minuto": "9'", "jugador": "Matheus Henrique", "equipo": "Cruzeiro" },
+      { "minuto": "21'", "jugador": "Walace", "equipo": "Cruzeiro" },
+      { "minuto": "45+3'", "jugador": "Milton Giménez", "equipo": "Boca Juniors" }
+    ],
+    "penales": {
+      "hubo_penales": true,
+      "local": 5,
+      "visitante": 4
+    },
+    "ganador": "Cruzeiro",
+    "clasificado": "Cruzeiro",
+    "estadisticas": {
+      "posesion": { "local": 58, "visitante": 42 },
+      "remates_totales": { "local": 18, "visitante": 7 },
+      "remates_al_arco": { "local": 7, "visitante": 3 },
+      "tiros_de_esquina": { "local": 8, "visitante": 2 },
+      "faltas": { "local": 11, "visitante": 14 },
+      "tarjetas_amarillas": { "local": 2, "visitante": 4 },
+      "tarjetas_rojas": { "local": 0, "visitante": 1 }
+    }
+  },
+  {
+    "id": 2,
+    "fase": "Octavos de Final - Vuelta",
+    "fecha": "2024-08-21",
+    "estadio": "Presidente Perón (El Cilindro), Avellaneda (Argentina)",
+    "equipo_local": "Racing Club",
+    "equipo_visitante": "Huachipato",
+    "pais_local": "Argentina",
+    "pais_visitante": "Chile",
+    "sigla_local": "RAC",
+    "sigla_visitante": "HUA",
+    "goles_local": 6,
+    "goles_visitante": 1,
+    "goleadores": [
+      { "minuto": "10'", "jugador": "Baltasar Rodríguez", "equipo": "Racing Club" },
+      { "minuto": "26'", "jugador": "Adrián Martínez", "equipo": "Racing Club" },
+      { "minuto": "31'", "jugador": "Johan Carbonero", "equipo": "Racing Club" },
+      { "minuto": "45'", "jugador": "Johan Carbonero", "equipo": "Racing Club" },
+      { "minuto": "48'", "jugador": "Brayan Palmezano (P)", "equipo": "Huachipato" },
+      { "minuto": "51'", "jugador": "Marco Di Cesare", "equipo": "Racing Club" },
+      { "minuto": "55'", "jugador": "Agustín Almendra", "equipo": "Racing Club" }
+    ],
+    "penales": {
+      "hubo_penales": false,
+      "local": null,
+      "visitante": null
+    },
+    "ganador": "Racing Club",
+    "clasificado": "Racing Club",
+    "estadisticas": {
+      "posesion": { "local": 64, "visitante": 36 },
+      "remates_totales": { "local": 21, "visitante": 5 },
+      "remates_al_arco": { "local": 11, "visitante": 2 },
+      "tiros_de_esquina": { "local": 9, "visitante": 3 },
+      "faltas": { "local": 8, "visitante": 13 },
+      "tarjetas_amarillas": { "local": 1, "visitante": 3 },
+      "tarjetas_rojas": { "local": 0, "visitante": 0 }
+    }
+  },
+  {
+    "id": 3,
+    "fase": "Octavos de Final - Vuelta",
+    "fecha": "2024-08-21",
+    "estadio": "Arena Castelão, Fortaleza (Brasil)",
+    "equipo_local": "Fortaleza",
+    "equipo_visitante": "Rosario Central",
+    "pais_local": "Brasil",
+    "pais_visitante": "Argentina",
+    "sigla_local": "FOR",
+    "sigla_visitante": "ROS",
+    "goles_local": 3,
+    "goles_visitante": 1,
+    "goleadores": [
+      { "minuto": "48'", "jugador": "Facundo Mallo", "equipo": "Rosario Central" },
+      { "minuto": "53'", "jugador": "Juan Martín Lucero", "equipo": "Fortaleza" },
+      { "minuto": "78'", "jugador": "Yago Pikachu", "equipo": "Fortaleza" },
+      { "minuto": "90+2'", "jugador": "Lucas Sasha", "equipo": "Fortaleza" }
+    ],
+    "penales": {
+      "hubo_penales": false,
+      "local": null,
+      "visitante": null
+    },
+    "ganador": "Fortaleza",
+    "clasificado": "Fortaleza",
+    "estadisticas": {
+      "posesion": { "local": 52, "visitante": 48 },
+      "remates_totales": { "local": 14, "visitante": 10 },
+      "remates_al_arco": { "local": 6, "visitante": 4 },
+      "tiros_de_esquina": { "local": 5, "visitante": 6 },
+      "faltas": { "local": 13, "visitante": 16 },
+      "tarjetas_amarillas": { "local": 3, "visitante": 4 },
+      "tarjetas_rojas": { "local": 0, "visitante": 0 }
+    }
+  },
+  {
+    "id": 4,
+    "fase": "Octavos de Final - Vuelta",
+    "fecha": "2024-08-20",
+    "estadio": "Neo Química Arena, São Paulo (Brasil)",
+    "equipo_local": "Corinthians",
+    "equipo_visitante": "Red Bull Bragantino",
+    "pais_local": "Brasil",
+    "pais_visitante": "Brasil",
+    "sigla_local": "COR",
+    "sigla_visitante": "RBB",
+    "goles_local": 1,
+    "goles_visitante": 2,
+    "goleadores": [
+      { "minuto": "24'", "jugador": "Rodrigo Garro", "equipo": "Corinthians" },
+      { "minuto": "72'", "jugador": "Eduardo Sasha", "equipo": "Red Bull Bragantino" },
+      { "minuto": "76'", "jugador": "Luan Cândido", "equipo": "Red Bull Bragantino" }
+    ],
+    "penales": {
+      "hubo_penales": true,
+      "local": 5,
+      "visitante": 4
+    },
+    "ganador": "Corinthians",
+    "clasificado": "Corinthians",
+    "estadisticas": {
+      "posesion": { "local": 46, "visitante": 54 },
+      "remates_totales": { "local": 12, "visitante": 15 },
+      "remates_al_arco": { "local": 4, "visitante": 6 },
+      "tiros_de_esquina": { "local": 4, "visitante": 7 },
+      "faltas": { "local": 15, "visitante": 12 },
+      "tarjetas_amarillas": { "local": 4, "visitante": 2 },
+      "tarjetas_rojas": { "local": 0, "visitante": 0 }
+    }
+  },
+  {
+    "id": 5,
+    "fase": "Octavos de Final - Vuelta",
+    "fecha": "2024-08-21",
+    "estadio": "Ciudad de Lanús, Lanús (Argentina)",
+    "equipo_local": "Lanús",
+    "equipo_visitante": "LDU Quito",
+    "pais_local": "Argentina",
+    "pais_visitante": "Ecuador",
+    "sigla_local": "LAN",
+    "sigla_visitante": "LDU",
+    "goles_local": 3,
+    "goles_visitante": 1,
+    "goleadores": [
+      { "minuto": "9'", "jugador": "Walter Bou", "equipo": "Lanús" },
+      { "minuto": "37'", "jugador": "Alex Arce", "equipo": "LDU Quito" },
+      { "minuto": "78'", "jugador": "Carlos Izquierdoz", "equipo": "Lanús" },
+      { "minuto": "89'", "jugador": "Lautaro Acosta", "equipo": "Lanús" }
+    ],
+    "penales": {
+      "hubo_penales": false,
+      "local": null,
+      "visitante": null
+    },
+    "ganador": "Lanús",
+    "clasificado": "Lanús",
+    "estadisticas": {
+      "posesion": { "local": 49, "visitante": 51 },
+      "remates_totales": { "local": 13, "visitante": 11 },
+      "remates_al_arco": { "local": 5, "visitante": 4 },
+      "tiros_de_esquina": { "local": 6, "visitante": 5 },
+      "faltas": { "local": 14, "visitante": 15 },
+      "tarjetas_amarillas": { "local": 2, "visitante": 3 },
+      "tarjetas_rojas": { "local": 0, "visitante": 0 }
+    }
+  },
+  {
+    "id": 6,
+    "fase": "Cuartos de Final - Vuelta",
+    "fecha": "2024-09-26",
+    "estadio": "Presidente Perón (El Cilindro), Avellaneda (Argentina)",
+    "equipo_local": "Racing Club",
+    "equipo_visitante": "Athletico Paranaense",
+    "pais_local": "Argentina",
+    "pais_visitante": "Brasil",
+    "sigla_local": "RAC",
+    "sigla_visitante": "CAP",
+    "goles_local": 4,
+    "goles_visitante": 1,
+    "goleadores": [
+      { "minuto": "1'", "jugador": "Agustín Almendra", "equipo": "Racing Club" },
+      { "minuto": "23'", "jugador": "Adrián Martínez", "equipo": "Racing Club" },
+      { "minuto": "42'", "jugador": "Roger Martínez", "equipo": "Racing Club" },
+      { "minuto": "47'", "jugador": "Nikão", "equipo": "Athletico Paranaense" },
+      { "minuto": "77'", "jugador": "Gastón Martirena", "equipo": "Racing Club" }
+    ],
+    "penales": {
+      "hubo_penales": false,
+      "local": null,
+      "visitante": null
+    },
+    "ganador": "Racing Club",
+    "clasificado": "Racing Club",
+    "estadisticas": {
+      "posesion": { "local": 57, "visitante": 43 },
+      "remates_totales": { "local": 19, "visitante": 8 },
+      "remates_al_arco": { "local": 9, "visitante": 3 },
+      "tiros_de_esquina": { "local": 7, "visitante": 4 },
+      "faltas": { "local": 10, "visitante": 17 },
+      "tarjetas_amarillas": { "local": 2, "visitante": 5 },
+      "tarjetas_rojas": { "local": 0, "visitante": 0 }
+    }
+  },
+  {
+    "id": 7,
+    "fase": "Cuartos de Final - Vuelta",
+    "fecha": "2024-09-24",
+    "estadio": "Neo Química Arena, São Paulo (Brasil)",
+    "equipo_local": "Corinthians",
+    "equipo_visitante": "Fortaleza",
+    "pais_local": "Brasil",
+    "pais_visitante": "Brasil",
+    "sigla_local": "COR",
+    "sigla_visitante": "FOR",
+    "goles_local": 3,
+    "goles_visitante": 0,
+    "goleadores": [
+      { "minuto": "55'", "jugador": "Ángel Romero", "equipo": "Corinthians" },
+      { "minuto": "59'", "jugador": "Igor Coronado", "equipo": "Corinthians" },
+      { "minuto": "82'", "jugador": "Pedro Henrique", "equipo": "Corinthians" }
+    ],
+    "penales": {
+      "hubo_penales": false,
+      "local": null,
+      "visitante": null
+    },
+    "ganador": "Corinthians",
+    "clasificado": "Corinthians",
+    "estadisticas": {
+      "posesion": { "local": 53, "visitante": 47 },
+      "remates_totales": { "local": 16, "visitante": 9 },
+      "remates_al_arco": { "local": 7, "visitante": 2 },
+      "tiros_de_esquina": { "local": 6, "visitante": 3 },
+      "faltas": { "local": 12, "visitante": 11 },
+      "tarjetas_amarillas": { "local": 1, "visitante": 2 },
+      "tarjetas_rojas": { "local": 0, "visitante": 0 }
+    }
+  },
+  {
+    "id": 8,
+    "fase": "Cuartos de Final - Vuelta",
+    "fecha": "2024-09-26",
+    "estadio": "Mineirão, Belo Horizonte (Brasil)",
+    "equipo_local": "Cruzeiro",
+    "equipo_visitante": "Libertad",
+    "pais_local": "Brasil",
+    "pais_visitante": "Paraguay",
+    "sigla_local": "CRU",
+    "sigla_visitante": "LIB",
+    "goles_local": 1,
+    "goles_visitante": 1,
+    "goleadores": [
+      { "minuto": "12'", "jugador": "Kaio Jorge", "equipo": "Cruzeiro" },
+      { "minuto": "72'", "jugador": "Roque Santa Cruz", "equipo": "Libertad" }
+    ],
+    "penales": {
+      "hubo_penales": false,
+      "local": null,
+      "visitante": null
+    },
+    "ganador": "Cruzeiro",
+    "clasificado": "Cruzeiro",
+    "estadisticas": {
+      "posesion": { "local": 55, "visitante": 45 },
+      "remates_totales": { "local": 13, "visitante": 10 },
+      "remates_al_arco": { "local": 5, "visitante": 4 },
+      "tiros_de_esquina": { "local": 5, "visitante": 4 },
+      "faltas": { "local": 13, "visitante": 15 },
+      "tarjetas_amarillas": { "local": 2, "visitante": 3 },
+      "tarjetas_rojas": { "local": 1, "visitante": 0 }
+    }
+  },
+  {
+    "id": 9,
+    "fase": "Semifinales - Vuelta",
+    "fecha": "2024-10-31",
+    "estadio": "Presidente Perón (El Cilindro), Avellaneda (Argentina)",
+    "equipo_local": "Racing Club",
+    "equipo_visitante": "Corinthians",
+    "pais_local": "Argentina",
+    "pais_visitante": "Brasil",
+    "sigla_local": "RAC",
+    "sigla_visitante": "COR",
+    "goles_local": 2,
+    "goles_visitante": 1,
+    "goleadores": [
+      { "minuto": "6'", "jugador": "Yuri Alberto", "equipo": "Corinthians" },
+      { "minuto": "36'", "jugador": "Juan Fernando Quintero (P)", "equipo": "Racing Club" },
+      { "minuto": "39'", "jugador": "Juan Fernando Quintero", "equipo": "Racing Club" }
+    ],
+    "penales": {
+      "hubo_penales": false,
+      "local": null,
+      "visitante": null
+    },
+    "ganador": "Racing Club",
+    "clasificado": "Racing Club",
+    "estadisticas": {
+      "posesion": { "local": 56, "visitante": 44 },
+      "remates_totales": { "local": 17, "visitante": 11 },
+      "remates_al_arco": { "local": 7, "visitante": 3 },
+      "tiros_de_esquina": { "local": 7, "visitante": 4 },
+      "faltas": { "local": 14, "visitante": 16 },
+      "tarjetas_amarillas": { "local": 3, "visitante": 4 },
+      "tarjetas_rojas": { "local": 0, "visitante": 0 }
+    }
+  },
+  {
+    "id": 10,
+    "fase": "Semifinales - Vuelta",
+    "fecha": "2024-10-30",
+    "estadio": "Ciudad de Lanús, Lanús (Argentina)",
+    "equipo_local": "Lanús",
+    "equipo_visitante": "Cruzeiro",
+    "pais_local": "Argentina",
+    "pais_visitante": "Brasil",
+    "sigla_local": "LAN",
+    "sigla_visitante": "CRU",
+    "goles_local": 0,
+    "goles_visitante": 1,
+    "goleadores": [
+      { "minuto": "45+1'", "jugador": "Kaio Jorge", "equipo": "Cruzeiro" }
+    ],
+    "penales": {
+      "hubo_penales": false,
+      "local": null,
+      "visitante": null
+    },
+    "ganador": "Cruzeiro",
+    "clasificado": "Cruzeiro",
+    "estadisticas": {
+      "posesion": { "local": 61, "visitante": 39 },
+      "remates_totales": { "local": 15, "visitante": 8 },
+      "remates_al_arco": { "local": 5, "visitante": 3 },
+      "tiros_de_esquina": { "local": 8, "visitante": 2 },
+      "faltas": { "local": 16, "visitante": 13 },
+      "tarjetas_amarillas": { "local": 4, "visitante": 3 },
+      "tarjetas_rojas": { "local": 0, "visitante": 0 }
+    }
+  },
+  {
+    "id": 11,
+    "fase": "Gran Final",
+    "fecha": "2024-11-23",
+    "estadio": "General Pablo Rojas (La Nueva Olla), Asunción (Paraguay)",
+    "equipo_local": "Racing Club",
+    "equipo_visitante": "Cruzeiro",
+    "pais_local": "Argentina",
+    "pais_visitante": "Brasil",
+    "sigla_local": "RAC",
+    "sigla_visitante": "CRU",
+    "goles_local": 3,
+    "goles_visitante": 1,
+    "goleadores": [
+      { "minuto": "15'", "jugador": "Gastón Martirena", "equipo": "Racing Club" },
+      { "minuto": "20'", "jugador": "Adrián Martínez", "equipo": "Racing Club" },
+      { "minuto": "52'", "jugador": "Kaio Jorge", "equipo": "Cruzeiro" },
+      { "minuto": "90+5'", "jugador": "Roger Martínez", "equipo": "Racing Club" }
+    ],
+    "penales": {
+      "hubo_penales": false,
+      "local": null,
+      "visitante": null
+    },
+    "ganador": "Racing Club",
+    "campeon": true,
+    "estadisticas": {
+      "posesion": { "local": 51, "visitante": 49 },
+      "remates_totales": { "local": 14, "visitante": 13 },
+      "remates_al_arco": { "local": 6, "visitante": 5 },
+      "tiros_de_esquina": { "local": 5, "visitante": 6 },
+      "faltas": { "local": 18, "visitante": 17 },
+      "tarjetas_amarillas": { "local": 4, "visitante": 3 },
+      "tarjetas_rojas": { "local": 0, "visitante": 0 }
+    }
+  }
+]
